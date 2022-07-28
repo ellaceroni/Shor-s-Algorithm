@@ -1,1 +1,1 @@
-# Deutch-s-Algorithm
+# Shor-s-Algorithm
